@@ -2,6 +2,7 @@
 
 ## Install
 - Rust
+- Golang
 - VSCode
 - Zed
 - NVM
@@ -23,8 +24,8 @@
 - Browsers without fingerprints
 - Music App
 - Secure Email storage
-- 
-- https://starship.rs/
+- HTTPie
+- [Starship](https://starship.rs/)
 
 ### Vscode
 - GitHub Theme
