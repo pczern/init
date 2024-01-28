@@ -25,7 +25,12 @@
 - Music App
 - Secure Email storage
 - HTTPie
+- Matlab
+- GNU Octave
 - [Starship](https://starship.rs/)
+- iTerm
+- Discord
+- Slack
 
 ### Vscode
 - GitHub Theme
