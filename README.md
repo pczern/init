@@ -1,52 +1,68 @@
 # init
 
 ## Install
-- Rust
-- Golang
-- VSCode
-- Zed
-- NVM
-- Minikube
-- Docker
-- Task
-- Pnpm
-- Git
-- Magnet
-- Kindle
-- Postgres.app
-- RStudio
-- Word
-- Excel
-- Chrome
-- Firefox
-- PDFExpert
-- Local password manager
-- Browsers without fingerprints
-- Music App
-- Secure Email storage
-- HTTPie
-- Matlab
-- GNU Octave
+- [Rust](https://www.rust-lang.org/learn/get-started)
+- [Golang](https://go.dev/doc/install)
+- [VSCode](https://code.visualstudio.com/download)
+- [Zed](https://zed.dev/)
+- [NVM](https://github.com/nvm-sh/nvm)
+- [Minikube](https://minikube.sigs.k8s.io/docs/start/)
+- [Docker](https://www.docker.com/products/docker-desktop/)
+- [Taskfile](https://taskfile.dev/installation/)
+- [PNPM](https://pnpm.io/installation)
+- [Git](https://git-scm.com/downloads)
+- [Magnet](https://apps.apple.com/gb/app/magnet/id441258766)
+- [Kindle](https://apps.apple.com/de/app/kindle/id302584613)
+- [Postgres.app](https://postgresapp.com/)
+- [RStudio](https://posit.co/download/rstudio-desktop/)
+- [Word](https://apps.apple.com/us/app/microsoft-word/id586447913)
+- [Excel](https://apps.apple.com/de/app/microsoft-excel/id586683407)
+- [Chrome](https://www.google.com/chrome/)
+- [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+- [PDFExpert](https://pdfexpert.com/de)
+- [KeepassXC](https://keepassxc.org/)
+- [Mullvad Browser](https://mullvad.net/en/browser)
+- [Spotify](https://www.spotify.com/de-en/download/other/)
+- [Tutanota](https://tuta.com/blog/desktop-clients-tutanota)
+- [ProtonMail](https://proton.me/mail)
+- [Yaak](https://yaak.app/)
+- [Matlab](https://de.mathworks.com/products/matlab/student.html)
+- [GNU Octave](https://octave.org/download)
 - [Starship](https://starship.rs/)
-- iTerm
-- Discord
-- Slack
+- [iTerm](https://iterm2.com/)
+- [Discord](https://discord.com/download)
+- [Slack](https://slack.com/intl/en-gb/downloads/mac)
+- [Android Studio](https://developer.android.com/studio)
+- [TUM Campus App](https://www.tum.app/)
+- [Send to Kindle](https://www.amazon.com/sendtokindle/mac)
+- [Inkscape](https://inkscape.org/release/inkscape-1.3.2/)
+- [DBeaver](https://dbeaver.io/download/)
+- [Cryptomator](https://cryptomator.org/)
 
 ### Vscode
 - GitHub Theme
-- Copilot
+- GitHub Copilot
+- GitHub Copilot Chat
 - C/C++
 - Deno
 - Docker
 - Editorconfig
 - Jupyter
-- Terraform
 - Color Highlight
+- Biome
 - Prettier
-- pgFormatter
+- [pgFormatter](https://github.com/darold/pgFormatter/releases)
 - R
 - SQLTools
 - GitHub Actions
-- GraphQL
+- GraphQL: Syntax Highlighting
 - Go
+- Dart
+- Flutter
+- Svelte for VS Code
+- Tailwind CSS IntelliSense
+- Hashicorp Terraform
+- Terraform
+- rust-analyzer
+- Kubernetes
 - enable auto save on focus change, auto format, change theme, change default c++ formatter
