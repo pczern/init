@@ -1,4 +1,9 @@
 # init
+- use admin account (system anyway not secure)
+- disable icloud sync
+- settings -> keyboard -> input sources -> add ABC, Arabic and Hebrew
+- settings -> keyboard -> input sources -> activate use caps lock key to ...
+- change background with alphabets and keyboard inputs
 
 ## Install
 - [Rust](https://www.rust-lang.org/learn/get-started)
