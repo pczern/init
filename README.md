@@ -43,6 +43,9 @@
 - [Inkscape](https://inkscape.org/release/inkscape-1.3.2/)
 - [DBeaver](https://dbeaver.io/download/)
 - [Cryptomator](https://cryptomator.org/)
+- [Doctl](https://docs.digitalocean.com/reference/doctl/how-to/install/)
+- [ZX](https://github.com/google/zx)
+- [Deno](https://deno.com/)
 
 ### Vscode
 - GitHub Theme
